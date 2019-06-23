@@ -7,7 +7,7 @@ There are three stages to complete Recommendation:
 2. Item-pairing
 3. Recommendation
 
-MongoDB is used for real-time storage. Mongo docker container is recommended.
+MongoDB is used for real-time storage. A mongo docker container is recommended.
 
 Dataset source: https://grouplens.org/datasets/movielens/1m/
 
