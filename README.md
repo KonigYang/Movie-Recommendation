@@ -11,3 +11,6 @@ MongoDB is used for real-time storage. A mongo docker container is recommended.
 
 Dataset source: https://grouplens.org/datasets/movielens/1m/
 
+# Usage
+Run the script in bash Directory
+
